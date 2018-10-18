@@ -1,7 +1,6 @@
 #include "rnd.h"
 
-Rnd::Rnd()
-{
+Rnd::Rnd(){
     a = 1;
 }
 
